@@ -17,3 +17,5 @@
     3.Plone — «родная» поддержка в Plone 3
     4.TYPO3 — с помощью плагина af_markdown
     5.RadiantCMS — один из видов разметки, доступный «из коробки»
+    #### Табличные данные
+    ![](https://ru.wikipedia.org/wiki/Markdown#/media/File:Markdown_Syntax_in_gedit.png)
